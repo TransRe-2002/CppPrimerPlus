@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(CppPrimerPlus)
+project(Test15.17)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CppPrimerPlus main.cpp)
+add_executable(Test15.17 rtti1.cpp)
